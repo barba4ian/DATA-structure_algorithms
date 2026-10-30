@@ -11,6 +11,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +46,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
