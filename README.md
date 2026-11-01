@@ -8,6 +8,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0739-daily-temperatures/) | Medium |
+| [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -53,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
