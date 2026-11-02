@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
@@ -57,5 +58,6 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
