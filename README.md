@@ -62,4 +62,8 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0520-detect-capital](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0520-detect-capital/) | Easy |
 <!---LeetCode Topics End-->
