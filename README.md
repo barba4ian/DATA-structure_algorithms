@@ -67,4 +67,5 @@
 | ------- | ------- |
 | [0482-license-key-formatting](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0520-detect-capital/) | Easy |
+| [0831-masking-personal-information](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0831-masking-personal-information/) | Medium |
 <!---LeetCode Topics End-->
