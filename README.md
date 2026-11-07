@@ -65,7 +65,20 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0482-license-key-formatting](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0520-detect-capital/) | Easy |
 | [0831-masking-personal-information](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0831-masking-personal-information/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
