@@ -95,4 +95,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0328-odd-even-linked-list/) | Medium |
 <!---LeetCode Topics End-->
