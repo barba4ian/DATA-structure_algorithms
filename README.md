@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0001-two-sum/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -101,4 +102,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0206-reverse-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
