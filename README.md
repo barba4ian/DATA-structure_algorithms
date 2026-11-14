@@ -96,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
@@ -106,4 +107,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0001-two-sum/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 <!---LeetCode Topics End-->
