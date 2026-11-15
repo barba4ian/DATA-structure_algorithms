@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0041-first-missing-positive/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -107,5 +108,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 <!---LeetCode Topics End-->
