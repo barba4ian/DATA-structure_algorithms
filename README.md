@@ -15,6 +15,7 @@
 | [1354-construct-target-array-with-multiple-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -111,8 +112,10 @@
 | [0001-two-sum](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0041-first-missing-positive/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
