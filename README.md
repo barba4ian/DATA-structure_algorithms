@@ -12,6 +12,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
+| [1200-minimum-absolute-difference](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -120,4 +121,8 @@
 | [1590-make-sum-divisible-by-p](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1200-minimum-absolute-difference](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1200-minimum-absolute-difference/) | Easy |
 <!---LeetCode Topics End-->
