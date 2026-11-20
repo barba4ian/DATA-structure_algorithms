@@ -20,6 +20,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -125,4 +126,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1200-minimum-absolute-difference](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 <!---LeetCode Topics End-->
