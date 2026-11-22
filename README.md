@@ -12,6 +12,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0739-daily-temperatures/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
@@ -133,4 +134,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0056-merge-intervals/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
