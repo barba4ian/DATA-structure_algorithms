@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,10 +139,15 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0633-sum-of-square-numbers/) | Medium |
 <!---LeetCode Topics End-->
