@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0056-merge-intervals/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0704-binary-search](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0704-binary-search/) | Easy |
@@ -71,6 +72,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
@@ -131,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0056-merge-intervals/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 ## Quicksort
@@ -152,4 +155,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
