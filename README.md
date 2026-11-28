@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0912-sort-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
@@ -74,6 +75,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0912-sort-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1046-last-stone-weight/) | Easy |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1354-construct-target-array-with-multiple-sums/) | Hard |
 ## String
@@ -134,6 +136,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 ## Quicksort
@@ -159,8 +162,25 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/barba4ian/DATA-structure_algorithms/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
